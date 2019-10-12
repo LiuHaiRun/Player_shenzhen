@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: libvlc-3.0.0:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/6221c21cd89cf30a88a269f3dbcd241d6b26c7f5/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/6221c21cd89cf30a88a269f3dbcd241d6b26c7f5/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\Player_shenzhen\app\libs\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\WorkSpace\Player_shenzhen\app\build\intermediates\pre-dexed\debug\glide-3.7.0_950adf71fa0b4878bf6d969506d5b272c2c00ce7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\Player_shenzhen\app\libs\gson-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="E:\WorkSpace\Player_shenzhen\app\build\intermediates\pre-dexed\debug\gson-2.5_832d02c6e7efb9df05e3c6dbe5a47037ca03dd86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\Player_shenzhen\app\libs\axmlrpc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a86a52251df71525b75fcd672324f8205cd20a6e">
+        <dex dex="E:\WorkSpace\Player_shenzhen\app\build\intermediates\pre-dexed\debug\axmlrpc_b3bdab2e4582b27081f7320f31605e263e38183a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\Player_shenzhen\app\libs\xutils.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1cb4ccd499502a3747771cd53af50f8791ecaa6f">
+        <dex dex="E:\WorkSpace\Player_shenzhen\app\build\intermediates\pre-dexed\debug\xutils_3ded2646380f877754129b640b16168a9a1dc0a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\Player_shenzhen\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="E:\WorkSpace\Player_shenzhen\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14_aecb9a0826f6b7153e0a61f1726e41111051762c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\Player_shenzhen\app\libs\commons-net-3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd0d5510908225f76c5fe5a3f1df4fa44866f81e">
+        <dex dex="E:\WorkSpace\Player_shenzhen\app\build\intermediates\pre-dexed\debug\commons-net-3.3_00b869932d75fdb4ed5cddf01f135d8ce1711965.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LiuHaiRui\.android\build-cache\6221c21cd89cf30a88a269f3dbcd241d6b26c7f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65845428bbf0cfa2ec997784d91285ad417d4edf">
+        <dex dex="E:\WorkSpace\Player_shenzhen\app\build\intermediates\pre-dexed\debug\classes_8c8d2d2698d6d7e972ddc5f7f306736dd4e77f09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\Player_shenzhen\app\libs\androidutils.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93e1a542ae24189a559c7b07d35605e68c403d94">
+        <dex dex="E:\WorkSpace\Player_shenzhen\app\build\intermediates\pre-dexed\debug\androidutils_469abc42c4e179c6d614f5e8bced004a3fd95c6a.jar" />
+    </item>
+
+</items>

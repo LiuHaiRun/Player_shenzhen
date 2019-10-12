@@ -1,0 +1,20 @@
+<resources>
+
+    <style name="LiveDialogStyle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item><!--窗口是否半透明——是（与第一条配合使用）-->
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">false</item> <!--activity不变暗-->
+    </style>
+    <style name="AppTheme" parent="android:style/Theme.Black.NoTitleBar.Fullscreen">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+
+</resources>
